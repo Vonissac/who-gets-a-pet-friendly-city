@@ -1,0 +1,13 @@
+﻿year,core_A_count,usable_coordinate_share,count_ratio_vs_2019_2025_median,recommended_status
+2014,260,1.0,0.122,diagnostic_or_sensitivity_sparse
+2015,452,1.0,0.212,diagnostic_or_sensitivity_sparse
+2016,504,1.0,0.236,diagnostic_or_sensitivity_sparse
+2017,602,1.0,0.282,diagnostic_or_sensitivity_sparse
+2018,1186,1.0,0.555,bridge_or_sensitivity_after_schema_check
+2019,2136,1.0,1.0,include_main_panel
+2020,2121,1.0,0.993,include_main_panel
+2021,2140,1.0,1.002,include_main_panel
+2022,1526,1.0,0.714,include_main_panel
+2023,2139,1.0,1.001,include_main_panel
+2024,2172,1.0,1.017,include_main_panel
+2025,1902,1.0,0.89,include_main_panel

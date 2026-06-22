@@ -1,0 +1,5 @@
+source_id,platform_or_source,content_type,access_route,terms_status,privacy_risk,current_status
+PA01,Xiaohongshu,public posts,to_be_reviewed,unknown,high,protocol_only
+PA02,Dianping_Meituan,venue reviews,to_be_reviewed,unknown,high,protocol_only
+PA03,Weibo,public posts,to_be_reviewed,unknown,high,protocol_only
+PA04,official_rules,park venue rules,manual_public_source,to_be_reviewed,medium,protocol_only

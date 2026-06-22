@@ -1,0 +1,4 @@
+﻿feature,dimension,definition,evidence_level
+service_score,service_background,POI core A density + diversity + active years,preliminary
+affordance_morphology_score,osm_morphology,ped paths/public space minus road/building intensity,preliminary
+baseline_mismatch_type,typology,quartile-based service and morphology mismatch,preliminary

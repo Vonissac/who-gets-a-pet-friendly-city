@@ -1,0 +1,4 @@
+sample,rows,pass_n,pass_rate
+rule_sources_132,132,127,0.9621
+round1_300_priority,300,38,0.1267
+top1000_stratified,1000,77,0.077

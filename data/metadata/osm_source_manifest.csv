@@ -1,0 +1,2 @@
+﻿source_id,source_name,source_page,download_url,file_name,file_size_bytes,sha256,license,attribution,accessed_at,raw_storage_path,download_executed,validation_status,notes
+OSM_GD_GPKG,Geofabrik Guangdong OSM GeoPackage,https://download.geofabrik.de/asia/china/guangdong.html,https://download.geofabrik.de/asia/china/guangdong-latest-free.gpkg.zip,guangdong-latest-free.gpkg.zip,324958006,7bda327834fbeb5de0052c15affd504921b307e889566ae93d20bfae4f208990,ODbL 1.0,© OpenStreetMap contributors,2026-05-29T02:47:07,[local restricted source path omitted],yes,downloaded_not_processed,

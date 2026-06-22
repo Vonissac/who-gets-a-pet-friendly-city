@@ -1,0 +1,9 @@
+sample,primary_venue_type,n,pass_n,pass_rate
+round1_300_priority,hotel,99,8,0.0808080808080808
+round1_300_priority,park_or_recreation,25,1,0.04
+round1_300_priority,residential_property,65,1,0.0153846153846153
+round1_300_priority,shopping_mall,111,28,0.2522522522522522
+top1000_stratified,hotel,282,8,0.0283687943262411
+top1000_stratified,park_or_recreation,144,3,0.0208333333333333
+top1000_stratified,residential_property,214,1,0.0046728971962616
+top1000_stratified,shopping_mall,360,65,0.1805555555555555

@@ -1,0 +1,23 @@
+﻿field,description,required_for_model
+year,POI observation year inferred from year folder/file name,yes
+source_file,Path relative to Shenzhen POI root,yes
+source_category,Raw category inferred from file name,yes
+source_encoding,Detected CSV encoding,audit
+source_row_number,1-based raw row number excluding header,audit
+raw_id,Original POI ID when available,yes
+name,POI name,yes
+type,Raw Amap type string,yes
+typecode,Raw Amap type code,yes
+address,Raw address,optional
+lon_wgs84,Chosen longitude-like field for spatial joins,yes
+lat_wgs84,Chosen latitude-like field for spatial joins,yes
+coordinate_source,Original coordinate field pair used,yes
+coordinate_status,Bounds validation status,yes
+province,Province name,optional
+city,City name,yes
+district,District/adname/county,yes
+adcode,Administrative code,optional
+category_primary,Raw primary category,yes
+category_secondary,Raw secondary category,optional
+category_tertiary,Raw tertiary category,optional
+raw_tel_present,Whether a phone field was present; phone value not copied,privacy

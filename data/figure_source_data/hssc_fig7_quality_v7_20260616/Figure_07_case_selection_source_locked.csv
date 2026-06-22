@@ -1,0 +1,13 @@
+﻿case_id,district_name,district_en,evidence_role,focal_grid_id,selection_note,selection_score,suppression_index_v51,emergence_index_v51,pet_ecology_norm,liminal_host_norm,positive_rule_count
+baoan_high_host_low_rule,宝安区,Baoan,liminal substrate,SZ500_0030_0037,high host capacity and pet ecology with no visible positive rule in focal grid,2.82,0.82,0.795518501757152,1.0,1.0,0.0
+longgang_suppressed_frontier,龙岗区,Longgang,diagnostic frontier,SZ500_0081_0048,high suppression and high pet ecology with no visible positive rule in focal grid,2.82,0.82,0.7925763005949087,1.0,1.0,0.0
+futian_visible_rule_core,福田区,Futian,traceable rule evidence,SZ500_0064_0034,positive-rule visibility core with high local rule count,15.766079096677707,0.0003291220947682,0.934502147069758,0.7660790966777066,1.0,14.0
+nanshan_mixed_contrast,南山区,Nanshan,mixed urban core,SZ500_0044_0032,service-rich urban core where visible and silent rule conditions sit near each other,4.12,0.12,1.0,1.0,1.0,3.0
+longhua_emerging_pressure,龙华区,Longhua,emerging liminality,SZ500_0060_0047,high liminal potential and host capacity before rule visibility is widespread,3.0,0.6159961672744585,0.8,1.0,1.0,0.0
+guangming_transitional_edge,光明区,Guangming,peripheral transition,SZ500_0036_0079,peripheral transition case with weaker rule visibility and emerging substrate,2.6827468499377227,0.6204340978588546,0.8,1.0,1.0,0.0
+luohu_compact_rule_visibility,罗湖区,Luohu,compact rule trace,SZ500_0074_0034,dense older-core case where visible rule traces sit close to host and service points,3.979210929772002,0.037316879634298,0.8989849375786216,0.9792109297720023,1.0,2.0
+yantian_public_space_edge,盐田区,Yantian,public-space edge,SZ500_0100_0038,coastal public-space edge with thinner service ecology and localized rule traces,2.094940337532173,0.0243457415546674,0.5578243010133264,0.6732889827722338,0.0,1.0
+pingshan_ecology_silent_edge,坪山区,Pingshan,silent ecology edge,SZ500_0120_0066,peripheral ecology-present grid where host candidates are visible before positive rules,36.96088409443489,0.5624018239904695,0.5167244852428355,0.3984822704444218,0.7142857142857143,0.0
+baoan_verification_pressure,宝安区,Baoan,verification pressure,SZ500_0030_0041,large host substrate with many candidates requiring venue-level verification,97.0,0.6471879359818811,0.8,1.0,1.0,0.0
+longgang_service_rule_gap,龙岗区,Longgang,service-rule gap,SZ500_0063_0051,service ecology is present but positive rule visibility remains locally thin,2.82,0.82,0.8,1.0,1.0,0.0
+nanshan_restrictive_contact_zone,南山区,Nanshan,restrictive contact,SZ500_0048_0032,visible rule contact zone where service ecology meets explicit or restrictive rule traces,3.0,0.12,0.72,0.0,1.0,3.0

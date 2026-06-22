@@ -1,0 +1,8 @@
+﻿variable,label,n_grids,directed_neighbor_links,moran_i_queen_gridid,permutation_reps,permutation_p_two_sided,method_boundary
+frontier_v51,Suppressed-emergence frontier indicator,9049,70232,0.439294338810139,499,0.002,"Queen adjacency inferred from SZ500 row/column grid_id; use as reviewer-facing spatial-clustering screen, not a replacement for full GIS LISA."
+emergence_index_v51,Emergence index v5.1,9049,70232,0.7131099277241816,499,0.002,"Queen adjacency inferred from SZ500 row/column grid_id; use as reviewer-facing spatial-clustering screen, not a replacement for full GIS LISA."
+suppression_index_v51,Suppression index v5.1,9049,70232,0.6779197829154617,499,0.002,"Queen adjacency inferred from SZ500 row/column grid_id; use as reviewer-facing spatial-clustering screen, not a replacement for full GIS LISA."
+readiness_deficit_index_v51,Readiness deficit index v5.1,9049,70232,0.2639015036964538,499,0.002,"Queen adjacency inferred from SZ500 row/column grid_id; use as reviewer-facing spatial-clustering screen, not a replacement for full GIS LISA."
+pet_service_count_2025,Pet-service count,9049,70232,0.3485867404825784,499,0.002,"Queen adjacency inferred from SZ500 row/column grid_id; use as reviewer-facing spatial-clustering screen, not a replacement for full GIS LISA."
+host_candidates,Host-candidate count,9049,70232,0.571560917146286,499,0.002,"Queen adjacency inferred from SZ500 row/column grid_id; use as reviewer-facing spatial-clustering screen, not a replacement for full GIS LISA."
+positive_rule_present,Any positive-rule presence,9049,70232,0.03795260716109864,499,0.002,"Queen adjacency inferred from SZ500 row/column grid_id; use as reviewer-facing spatial-clustering screen, not a replacement for full GIS LISA."

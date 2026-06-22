@@ -1,0 +1,6 @@
+class,label,n,share
+verified_open_or_designated,open or designated,31,0.23484848484848486
+verified_conditional,conditional,59,0.44696969696969696
+verified_restrictive,restrictive,30,0.22727272727272727
+verified_ambiguous_or_discretionary,ambiguous,7,0.05303030303030303
+not_verified,not verified,5,0.03787878787878788

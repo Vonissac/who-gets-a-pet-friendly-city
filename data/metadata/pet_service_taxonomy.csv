@@ -1,0 +1,9 @@
+class_code,class_group,class_name,include_patterns,exclude_patterns,confidence_default,notes
+A_MEDICAL,A_high_confidence,pet_medical,"宠物医院|宠物诊所|动物医院|动物医疗|动物诊疗|兽医|动物诊所","",high,Primary service-background class
+A_RETAIL,A_high_confidence,pet_retail,"宠物用品|宠物食品|宠物药|宠物店|宠物生活馆","天猫|黑猫|搜狗|猫眼|熊猫|机器猫",high,Needs false-positive filtering
+A_GROOMING,A_high_confidence,pet_grooming,"宠物美容|宠物洗护|宠物护理","",high,May appear under life services
+A_BOARDING,A_high_confidence,pet_boarding,"宠物寄养|宠物酒店|宠物托管|宠物民宿","",high,Often sparse
+A_TRAINING,A_high_confidence,pet_training,"训犬|犬训练|宠物训练","",medium,May need manual validation
+B_LEISURE,B_extended,pet_leisure,"猫咖|狗咖|萌宠|宠物乐园|宠物公园|宠物营地|动物咖啡","动物园|熊猫|海洋馆",medium,Co-presence-related but not core service
+B_AQUARIUM,B_extended,aquarium_flower_bird_fish,"水族|花鸟鱼虫|鱼虫市场","",medium,Extended/sensitivity only
+C_NOISE,C_exclusion,obvious_noise,"天猫|黑猫投诉|搜狗|猫眼|熊猫|机器猫|招财猫|猫山王|狗不理|犬牙交错","",exclude,Remove unless manually verified as pet-relevant

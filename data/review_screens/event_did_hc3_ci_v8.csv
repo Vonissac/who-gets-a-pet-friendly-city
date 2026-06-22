@@ -1,0 +1,3 @@
+﻿outcome,n,treated_grid_count,post_event_coef,hc3_se,ci_95_low,ci_95_high,p_two_sided,r2,interpretation
+log_service_density,63343,45,-0.1074711451417863,0.13476678986049537,-0.3716140532683572,0.15667176298478463,0.42518383482927213,0.16608003258333726,"post-event association with year, district and morphology controls; diagnostic not causal"
+pet_service_diversity_count,63343,45,-0.03283411262967667,0.10485296336522235,-0.23834592082551245,0.1726776955661591,0.754170998920064,0.15098287746032768,"post-event association with year, district and morphology controls; diagnostic not causal"

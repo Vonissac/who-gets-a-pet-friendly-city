@@ -1,0 +1,4 @@
+geo_confidence,rule,allowed_use
+high,venue page or exact POI match,grid or venue analysis
+medium,neighborhood or district place mention,coarse analysis only
+low,ambiguous city-level mention,topic analysis not spatial model

@@ -1,0 +1,35 @@
+[
+  {
+    "sample": "rule_sources_132",
+    "raw_file": "hssc深圳-标注完毕/label done manual_validation_rule_sources_132.csv",
+    "raw_sha256": "b7eafb9b19981b0b75e3877a72e584e87d73a7509342b31141fb8581e4666717",
+    "encoding_in": "GB18030",
+    "standardized_file": "data_processed/validation/manual_validation_rule_sources_132_completed_utf8.csv",
+    "rows": 132,
+    "columns": 47,
+    "pass_n": 127,
+    "pass_rate": 0.9621
+  },
+  {
+    "sample": "round1_300_priority",
+    "raw_file": "hssc深圳-标注完毕/label done manual_validation_round1_300_priority .csv",
+    "raw_sha256": "45fbfd14bb7fd7b25a8fea69f4bcc28914e7ee7b878b341bf19ff690951faa21",
+    "encoding_in": "GB18030",
+    "standardized_file": "data_processed/validation/manual_validation_round1_300_priority_completed_utf8.csv",
+    "rows": 300,
+    "columns": 52,
+    "pass_n": 38,
+    "pass_rate": 0.1267
+  },
+  {
+    "sample": "top1000_stratified",
+    "raw_file": "hssc深圳-标注完毕/label done manual_validation_liminal_queue_top1000_stratified .csv",
+    "raw_sha256": "70015a36dd31ae5a3aebbd8100899a63ca0ed5faaaaece197b7b76e320c7903d",
+    "encoding_in": "GB18030",
+    "standardized_file": "data_processed/validation/manual_validation_top1000_stratified_completed_utf8.csv",
+    "rows": 1000,
+    "columns": 42,
+    "pass_n": 77,
+    "pass_rate": 0.077
+  }
+]

@@ -1,0 +1,3 @@
+﻿model_id,outcome,n,treated_grid_count,coef_post_event,p_post_event,r2,interpretation
+event_did_log_service_density,log_service_density,63343,45,-0.10747114514178625,0.42518383482927213,0.16608003258333726,"post-event association after year, district and morphology controls; not definitive causality"
+event_did_pet_service_diversity_count,pet_service_diversity_count,63343,45,-0.03283411262967667,0.754170998920064,0.15098287746032768,"post-event association after year, district and morphology controls; not definitive causality"

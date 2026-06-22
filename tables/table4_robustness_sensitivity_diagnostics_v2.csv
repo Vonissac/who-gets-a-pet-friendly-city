@@ -1,0 +1,11 @@
+Diagnostic,Support / n,Key result,Boundary / interpretation
+Weight perturbation,"1,000 +/-20% perturbations",Mean 545.8 frontier grids (range 458-606); mean Jaccard 0.954 (0.813-0.995),"Weights are diagnostic priors, not behavioural parameters."
+Matching balance,8 balance features,Median |SMD| 0.050; max |SMD| 0.278,"Matched contrasts are diagnostic, not causal."
+Matched contrast,Frontier=549; controls=198,Suppression 0.690 vs 0.464 (+0.226; 95% bootstrap CI 0.217-0.236; permutation p<0.001); rule silence 0.668 vs 0.551 (+0.117; CI 0.079-0.157); any positive-rule ~0 on both sides (p=1.000),"Diagnostic contrast, not a treatment effect."
+Event timing,"n=63,343; treated grids=45",Log service density post-event -0.107 (HC3 95% CI -0.372 to 0.157; p=0.425); diversity -0.033 (CI -0.238 to 0.173; p=0.754),Timing association with controls; not definitive causality.
+Controlled model diagnostic,"n=9,049","Frontier and positive-rule classification is high by construction (built from the same variables); strongest positive features: rule-liminal host intensity, pet-service ecology, rule silence; strongest negative: interior grid cell, positive-rule visibility","Internal-consistency check, not independent validation."
+Spatial autocorrelation (Moran),"Grid-id queen adjacency; 70,232 directed links",Frontier I=0.439; emergence I=0.713; suppression I=0.678; all p=0.002,Screen only; not local LISA or hot-spot analysis.
+MAUP support,250 m child cells linked to 500 m parents,Frontier and emergent-core parents have mean 250 m child count 4.0,Support check; not a recomputed 250 m/1 km model.
+Population exposure,"9,049 grids; 503 frontier grids",Mean 2025 100 m raster centroid value: frontier 243.4 vs non-frontier 92.5,Centroid-sampled screen; not area-weighted demographic incidence.
+Version continuity,v5 and v5.1 frontier definitions,v5=549; v5.1=503; overlap=502; retained share 91.4%,"Conservative sparse-rule repair, not result drift."
+Rule-corpus source class,132 source-ledger records,84 official/operator primary records,Source strength is explicit rather than hidden.

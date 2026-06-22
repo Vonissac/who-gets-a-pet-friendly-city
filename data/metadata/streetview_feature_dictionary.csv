@@ -1,0 +1,5 @@
+feature_id,feature_name,unit,method,status,claim_boundary
+SV_GREEN,green_view_proxy,score_or_share,cv_or_manual,requires_collection,visible greenery not actual use
+SV_WALK,walkable_space_proxy,score,cv_manual_osm,requires_collection,visible walking affordance only
+SV_SHADE,shade_proxy,score,cv_or_manual,requires_collection,thermal comfort proxy only
+SV_LEASH,leashability_proxy,index,constructed,requires_validation,proxy not observed dog walking

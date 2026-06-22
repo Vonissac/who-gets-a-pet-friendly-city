@@ -1,0 +1,6 @@
+﻿model_id,outcome,treated_n,control_n_unique,treated_mean,matched_control_mean,difference_treated_minus_control,mean_match_distance,interpretation
+nearest_neighbor_matched_frontier,suppression_index,549,198,0.6904225907577771,0.46429020004832133,0.22613239070945584,0.7014538553507373,"matched comparison on pet ecology and morphology; diagnostic, not causal"
+nearest_neighbor_matched_frontier,positive_rule_norm,549,198,0.0,0.0,0.0,0.7014538553507373,"matched comparison on pet ecology and morphology; diagnostic, not causal"
+nearest_neighbor_matched_frontier,rule_silence_norm,549,198,0.6679042008903746,0.5505406767826462,0.11736352410772838,0.7014538553507373,"matched comparison on pet ecology and morphology; diagnostic, not causal"
+nearest_neighbor_matched_frontier,has_positive_rule,549,198,0.025500910746812388,0.0273224043715847,-0.0018214936247723133,0.7014538553507373,"matched comparison on pet ecology and morphology; diagnostic, not causal"
+nearest_neighbor_matched_frontier,primary_positive_rule_count,549,198,0.020036429872495445,0.029143897996357013,-0.009107468123861567,0.7014538553507373,"matched comparison on pet ecology and morphology; diagnostic, not causal"

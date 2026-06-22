@@ -1,0 +1,9 @@
+﻿metric,value
+core_candidate_rows,17140
+rows_with_in_bounds_coordinates,17140
+rows_missing_or_unusable_coordinates,0
+joined_points_written,17140
+joined_points_missing_grid,2
+grid_rows,9049
+grid_rows_with_core_service,1944
+year_grid_rows_with_core_service,8456

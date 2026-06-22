@@ -1,0 +1,10 @@
+Layer / construct,Symbol,What it measures,Scale / support,Supports,Boundary (does not support)
+Pet-service ecology,P_g,"Weighted service intensity, diversity and category exposure (POI / 500 m grid)","1,902 points; 9,049 grids",Service substrate and category mix,"Not demand, welfare, sentiment or access"
+Rule-liminal host venues,H_h,"Host propensity under venue type, service exposure, rule proximity and topology","57,994 host candidates",Transition potential in ordinary venues,Candidate status is not confirmed permission
+Traceable rule corpus,—,"Official, operator, reported and contextual rule records by source class",132 records,Visible rule geography and source strength,Silence is not interpreted as refusal
+Positive rule visibility,R_g+,Source-weighted explicit positive access rules,63 grids (44 primary-source-supported),Visible rule translation,Not unobserved tolerance
+Emergence index,E_g,"Composite of service ecology, host opportunity, rule signal and topology","Grid-level (9,049 grids)",Capability preconditions,Not lived experience
+Suppression index,U_g,"Service-rule gap, rule silence and under-translation",503 frontier grids,Readiness deficit,Not intentional prohibition
+Matched contrast,Delta_M,Frontier grids vs matched controls on ecology and morphology,v8 closure (549 vs 198),Robustness of the contrast,Not a treatment effect
+Timing diagnostic,Y_gt,Post-event and lagged-onset grid-year checks,"63,343 grid-years (45 treated)",Temporal consistency,Not exogenous causality
+Analytical grid,—,500 m clipped grid; WGS84 / EPSG:32649,"9,049 cells; 63,343 grid-years",Spatial diagnostic denominator,Grid patterns do not describe individual experience

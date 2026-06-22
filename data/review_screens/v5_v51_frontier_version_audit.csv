@@ -1,0 +1,6 @@
+﻿item,value,interpretation
+v5 suppressed-frontier grids,549.0,Earlier diagnostic layer retained as sensitivity benchmark.
+v5.1 sparse-rule repaired frontier grids,503.0,Current manuscript headline count after sparse positive-rule scaling repair.
+v5-v5.1 overlap,502.0,Shared frontier grids under both typologies.
+v5-to-v5.1 retained share,0.9143897996357013,Use to explain continuity despite stricter repair.
+v5.1 grids new relative to v5,1.0,Should be minimal or explained if nonzero.

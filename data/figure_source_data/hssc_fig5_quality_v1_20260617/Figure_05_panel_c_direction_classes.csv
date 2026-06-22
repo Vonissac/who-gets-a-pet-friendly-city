@@ -1,0 +1,8 @@
+class,label,n,share
+not_source_verifiable,"not
+verified",923,0.923
+verified_conditional_or_zoned_access,conditional,55,0.055
+verified_open_or_event_access,"open /
+event",14,0.014
+verified_restrictive,restrictive,6,0.006
+verified_pet_service_identity_not_ordinary_host_access,pet-service,2,0.002

@@ -1,0 +1,22 @@
+target,feature,coefficient,abs_coefficient,spec,feature_label,target_label,roc_auc,average_precision,balanced_accuracy_at_0_5
+has_positive_rule,topology_norm,0.265605972465909,0.265605972465909,core_plus_controls,Topology,Visible positive rule,1.0,0.9999999999999998,0.9999443578900512
+has_positive_rule,pet_ecology_norm,-0.0411402964440423,0.0411402964440423,core_plus_controls,Pet ecology,Visible positive rule,1.0,0.9999999999999998,0.9999443578900512
+has_positive_rule,liminal_potential_norm,-0.2224578353625456,0.2224578353625456,core_plus_controls,Liminal potential,Visible positive rule,1.0,0.9999999999999998,0.9999443578900512
+has_positive_rule,positive_rule_norm_v51,1.392484888614078,1.392484888614078,core_plus_controls,Positive rule,Visible positive rule,1.0,0.9999999999999998,0.9999443578900512
+has_positive_rule,rule_liminal_exposure_norm_v51,0.2724994286589586,0.2724994286589586,core_plus_controls,Rule-liminal exposure,Visible positive rule,1.0,0.9999999999999998,0.9999443578900512
+has_positive_rule,restrictive_norm,0.0,0.0,core_plus_controls,Restriction,Visible positive rule,1.0,0.9999999999999998,0.9999443578900512
+has_positive_rule,edge_cell_no,-3.2486896155706777,3.2486896155706777,core_plus_controls,Non-edge cell,Visible positive rule,1.0,0.9999999999999998,0.9999443578900512
+is_suppressed_frontier,topology_norm,0.9893041254343334,0.9893041254343334,core_plus_controls,Topology,Suppressed frontier,0.9997908639899428,0.9965625233665958,0.9946758717528668
+is_suppressed_frontier,topology_norm,0.9893041254343334,0.9893041254343334,core_plus_controls,Topology,Suppressed frontier,0.9997908639899428,0.9965625233665958,0.9946758717528668
+is_suppressed_frontier,pet_ecology_norm,2.851253519113178,2.851253519113178,core_plus_controls,Pet ecology,Suppressed frontier,0.9997908639899428,0.9965625233665958,0.9946758717528668
+is_suppressed_frontier,pet_ecology_norm,2.851253519113178,2.851253519113178,core_plus_controls,Pet ecology,Suppressed frontier,0.9997908639899428,0.9965625233665958,0.9946758717528668
+is_suppressed_frontier,liminal_potential_norm,-3.4890966182675656,3.4890966182675656,core_plus_controls,Liminal potential,Suppressed frontier,0.9997908639899428,0.9965625233665958,0.9946758717528668
+is_suppressed_frontier,liminal_potential_norm,-3.4890966182675656,3.4890966182675656,core_plus_controls,Liminal potential,Suppressed frontier,0.9997908639899428,0.9965625233665958,0.9946758717528668
+is_suppressed_frontier,positive_rule_norm_v51,-3.3232878353533724,3.3232878353533724,core_plus_controls,Positive rule,Suppressed frontier,0.9997908639899428,0.9965625233665958,0.9946758717528668
+is_suppressed_frontier,positive_rule_norm_v51,-3.3232878353533724,3.3232878353533724,core_plus_controls,Positive rule,Suppressed frontier,0.9997908639899428,0.9965625233665958,0.9946758717528668
+is_suppressed_frontier,rule_liminal_exposure_norm_v51,-0.1839771574918601,0.1839771574918601,core_plus_controls,Rule-liminal exposure,Suppressed frontier,0.9997908639899428,0.9965625233665958,0.9946758717528668
+is_suppressed_frontier,rule_liminal_exposure_norm_v51,-0.1839771574918601,0.1839771574918601,core_plus_controls,Rule-liminal exposure,Suppressed frontier,0.9997908639899428,0.9965625233665958,0.9946758717528668
+is_suppressed_frontier,restrictive_norm,0.0,0.0,core_plus_controls,Restriction,Suppressed frontier,0.9997908639899428,0.9965625233665958,0.9946758717528668
+is_suppressed_frontier,restrictive_norm,0.0,0.0,core_plus_controls,Restriction,Suppressed frontier,0.9997908639899428,0.9965625233665958,0.9946758717528668
+is_suppressed_frontier,edge_cell_no,-5.306288744535774,5.306288744535774,core_plus_controls,Non-edge cell,Suppressed frontier,0.9997908639899428,0.9965625233665958,0.9946758717528668
+is_suppressed_frontier,edge_cell_no,-5.306288744535774,5.306288744535774,core_plus_controls,Non-edge cell,Suppressed frontier,0.9997908639899428,0.9965625233665958,0.9946758717528668

@@ -1,0 +1,3 @@
+source_id,source_type,access_route,terms_status,storage_risk,privacy_risk,current_status
+SV01,map_streetview_api,to_be_reviewed,unknown,medium_to_high,faces_license_plates_possible,protocol_only
+SV02/manual_field_or_public_images,to_be_reviewed,unknown,low_to_medium,depends_on_source,protocol_only

@@ -1,0 +1,85 @@
+{
+  "figure": "Figure_03",
+  "source_locked": true,
+  "source_code": "code/figure_scripts/figures_v28_spatial_sparse_repaired/build_fig3_rule_liminal_venues_v28.py",
+  "source_data": [
+    "data_processed/model/grid_rule_liminality_500m_2025_v4.geojson",
+    "data_processed/platform/rule_liminal_host_candidates_2025_v4.csv",
+    "data_processed/platform/rule_semantic_records_v1.csv",
+    "data_processed/platform/rule_semantic_geocoded_points_v1.geojson",
+    "data_processed/platform/rule_source_ledger_v1.csv",
+    "data_processed/osm/shenzhen_osm_roads.gpkg",
+    "data_processed/osm/shenzhen_osm_pedestrian_paths.gpkg",
+    "data_processed/osm/shenzhen_osm_buildings_3d.gpkg",
+    "data_processed/osm/shenzhen_osm_public_space.gpkg"
+  ],
+  "layout_changes": [
+    "Removed top explanatory line and oversized global legend",
+    "Rebuilt as source-locked HSSC quality composite with two map panels and four evidence panels",
+    "Added north arrow and scale bar to both evidentiary map panels",
+    "Expanded the citywide map frame to visually align with the local zoom frame",
+    "Added panel-local map legends for core semantic layers",
+    "Aligned lower evidence-panel title baselines and removed non-essential micro-footnotes",
+    "Formal outputs restricted to PDF, PNG and SVG",
+    "Panel a enlarged by widening the top-left map frame and adapting the mother canvas",
+    "Axes layout recorded for hidden-alignment review"
+  ],
+  "canvas_inches": [
+    8.2,
+    7.82
+  ],
+  "axes_layout": {
+    "a": [
+      0.055,
+      0.568,
+      0.42,
+      0.324
+    ],
+    "b": [
+      0.535,
+      0.568,
+      0.42,
+      0.372
+    ],
+    "c": [
+      0.055,
+      0.356,
+      0.42,
+      0.154
+    ],
+    "d": [
+      0.535,
+      0.356,
+      0.42,
+      0.154
+    ],
+    "e": [
+      0.055,
+      0.082,
+      0.42,
+      0.218
+    ],
+    "f": [
+      0.535,
+      0.082,
+      0.42,
+      0.218
+    ]
+  },
+  "cartographic_controls": {
+    "citywide_map": {
+      "north_arrow": true,
+      "scale_bar": "20 km"
+    },
+    "futian_local_map": {
+      "north_arrow": true,
+      "scale_bar": "5 km"
+    }
+  },
+  "outputs": {
+    "png": "Figure_03.png",
+    "pdf": "Figure_03.pdf",
+    "svg": "Figure_03.svg"
+  },
+  "zip": "HSSC_Figure_03_PDF_PNG_SVG.zip"
+}

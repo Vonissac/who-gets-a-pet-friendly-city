@@ -1,0 +1,5 @@
+category,example_terms,claim_boundary
+pet_friendly,宠物友好|可带宠|带狗|带猫,platform-visible friendliness only
+restriction,禁宠|不可带宠|禁止犬只|谢绝宠物,restriction discourse only
+complaint_conflict,扰民|狗叫|卫生|咬人|投诉,selective conflict signal only
+care_anxiety,寄养|看病|托管|出行焦虑,care stress discourse only

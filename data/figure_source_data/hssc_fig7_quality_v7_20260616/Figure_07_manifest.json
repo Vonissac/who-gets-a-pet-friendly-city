@@ -1,0 +1,21 @@
+{
+  "figure": "Figure_07",
+  "source_script": "build_v30_map_evidence_vignettes.py",
+  "source_data": [
+    "data_processed/model/grid_emergence_suppression_indices_500m_2025_v51_sparse_repaired.geojson",
+    "data_processed/platform/rule_liminal_host_candidates_2025_v4.csv",
+    "data_processed/platform/rule_liminal_verification_queue_2025_v4.csv",
+    "data_processed/platform/pet_service_ecology_points_2025_v3.geojson",
+    "data_processed/platform/rule_semantic_geocoded_points_v1.geojson",
+    "data_processed/osm/shenzhen_osm_roads.gpkg",
+    "data_processed/osm/shenzhen_osm_pedestrian_paths.gpkg",
+    "data_processed/osm/shenzhen_osm_buildings_3d.gpkg",
+    "data_processed/osm/shenzhen_osm_public_space.gpkg"
+  ],
+  "layout": "double-column-width tall figure; citywide overview plus three-column four-row source-locked local evidence cards",
+  "outputs": {
+    "png": "Figure_07.png",
+    "pdf": "Figure_07.pdf",
+    "svg": "Figure_07.svg"
+  }
+}

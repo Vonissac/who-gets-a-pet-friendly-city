@@ -1,0 +1,12 @@
+scenario,host_type,n,adoption_share
+conservative_same_type,shopping_mall,2519,0.0164215114016655
+conservative_same_type,restaurant,13,0.0164215114016655
+balanced_threshold,shopping_mall,13341,0.6346732560251122
+balanced_threshold,park_or_recreation,2726,0.6346732560251122
+balanced_threshold,restaurant,81780,0.6346732560251122
+balanced_threshold,hotel,12,0.6346732560251122
+permissive_tipping,shopping_mall,13341,0.7729978986691571
+permissive_tipping,park_or_recreation,3189,0.7729978986691571
+permissive_tipping,restaurant,83878,0.7729978986691571
+permissive_tipping,hotel,18778,0.7729978986691571
+permissive_tipping,residential_property,1,0.7729978986691571

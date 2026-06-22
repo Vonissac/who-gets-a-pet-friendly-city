@@ -1,0 +1,5 @@
+﻿group,grid_n,population_centroid_sum_screen,population_centroid_mean,population_centroid_median,population_centroid_p95,population_source,method_boundary
+all_valid_500m_grids,9049,572740.5678254763,106.63574154263196,72.84754943847656,298.4961853027344,pop2025_100m_centroid_value,Centroid-sampled raster screen; do not cite as final area-weighted population exposure.
+suppressed_frontier_v51,503,122166.05338668823,243.35867208503632,249.35802459716797,353.8408813476562,pop2025_100m_centroid_value,Centroid-sampled raster screen; do not cite as final area-weighted population exposure.
+emergent_capability_core_v51,45,11838.466232299805,263.0770273844401,271.9058837890625,429.4606201171875,pop2025_100m_centroid_value,Centroid-sampled raster screen; do not cite as final area-weighted population exposure.
+non_frontier_grids,8546,450574.51443878806,92.53943611394291,51.59478759765625,271.71523437499974,pop2025_100m_centroid_value,Centroid-sampled raster screen; do not cite as final area-weighted population exposure.

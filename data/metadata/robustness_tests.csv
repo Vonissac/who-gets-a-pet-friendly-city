@@ -1,0 +1,6 @@
+﻿test_id,test,status
+R01,stable_year_window,main_panel_2019_2025
+R02,threshold_sensitivity,pending_next_round
+R03,streetview_missingness,blocked_no_collection
+R04,platform_missingness,blocked_no_collection
+R05,osm_3d_height_tags,height_levels_unavailable_in_geofabrik_free_gpkg

@@ -1,0 +1,29 @@
+{
+  "figure": "Figure_02",
+  "source_locked": true,
+  "source_code": "code/figure_scripts/figures_v28_spatial_sparse_repaired/build_fig2_district_atlas_v28.py",
+  "source_data": [
+    "data/figure_source_data/hssc_fig2_quality_v2_20260616/Figure_02_source_map.json",
+    "data/figure_source_data/hssc_fig2_quality_v2_20260616/Figure_02_source_map.json"
+  ],
+  "layout_changes": [
+    "Atlas-first layout: nine high-granularity district maps become the primary evidence field",
+    "Each district map receives a muted Shenzhen locator inset highlighting district position",
+    "All main map panels receive north arrow and scale bar inside panel safe area",
+    "Each district map includes an open 2x2 evidence readout for host count, frontier share, pet-service POI and visible rules",
+    "Non-core OSM/global legend removed so atlas panels occupy more of the figure body",
+    "Host-type composition and district evidence fingerprint moved to bottom summary panels",
+    "Formal outputs restricted to PDF, PNG and SVG"
+  ],
+  "cartographic_controls": {
+    "district_panels": {
+      "north_arrow": true,
+      "scale_bar": "5 km"
+    },
+    "locator_insets": {
+      "north_arrow": false,
+      "scale_bar": false,
+      "reason": "not-to-scale district locator insets"
+    }
+  }
+}

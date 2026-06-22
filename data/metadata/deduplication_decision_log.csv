@@ -1,0 +1,6 @@
+﻿metric,value
+main_year_window,2019-2025
+candidate_rows_before_dedup,14136
+candidate_rows_after_dedup,14122
+removed_duplicate_rows,14
+dedup_rule,raw_id within year when available; otherwise normalized name+address+rounded lon/lat within year

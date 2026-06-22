@@ -1,0 +1,8 @@
+﻿target,model,n,positive,roc_auc,average_precision,accuracy_at_0_5,balanced_accuracy_at_0_5,spec,r2,mae
+is_suppressed_frontier,balanced_logistic_regression_cv5,9049,503,0.9997908639899429,0.9965625233665958,0.9899436401812355,0.9946758717528668,core_plus_controls,,
+has_positive_rule,balanced_logistic_regression_cv5,9049,63,1.0,0.9999999999999998,0.9998894905514422,0.9999443578900512,core_plus_controls,,
+has_primary_positive_rule,balanced_logistic_regression_cv5,9049,44,1.0,0.9999999999999999,1.0,1.0,core_plus_controls,,
+suppression_index_v51,ridge_regression_cv5,9049,,,,,,core_plus_controls,0.9905954094912004,0.004790513429545746
+is_suppressed_frontier,balanced_logistic_regression_cv5,9049,503,0.963656627983096,0.5352842021156902,0.9040777986517847,0.9155369677558334,controls_only,,
+is_suppressed_frontier,balanced_logistic_regression_cv5,9049,503,0.9997959818900777,0.9966802502486516,0.9879544701071942,0.9936227474842032,core_only,,
+is_suppressed_frontier,balanced_logistic_regression_cv5,9049,503,0.9997908639899429,0.9965625233665958,0.9899436401812355,0.9946758717528668,core_plus_controls,,
