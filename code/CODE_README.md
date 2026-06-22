@@ -24,6 +24,15 @@ Run the input check from anywhere after unpacking:
 It statically resolves the inputs each analysis script reads and reports which
 scripts are fully runnable from the package.
 
+Run the complete shareable derived-layer reproduction with:
+
+    python code/run_reproducible_analysis.py
+
+This executes the nine scripts supported by the supplied data and writes a run
+summary to `_rebuild_outputs/reports/`. Pandas may print warnings about optional
+acceleration packages such as `numexpr` or `bottleneck`; these warnings do not
+indicate reproduction failure when all scripts return code 0.
+
 ## Reproduction boundary
 
 `analysis_scripts/` reproduces the reported numerical claims from the shareable

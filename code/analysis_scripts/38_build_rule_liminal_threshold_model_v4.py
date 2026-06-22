@@ -41,7 +41,7 @@ OUT_GRID = PROJECT_ROOT / "data" / "derived_data" / "model" / "grid_rule_liminal
 OUT_GRID_GEO = PROJECT_ROOT / "data" / "derived_data" / "model" / "grid_rule_liminality_500m_2025_v4.geojson"
 OUT_EDGES = PROJECT_ROOT / "data" / "derived_data" / "network" / "rule_liminal_threshold_edges_2025_v4.csv"
 REPORT = PROJECT_ROOT / "_rebuild_outputs" / "reports" / "54_rule_liminal_threshold_model_v4_report.md"
-METHOD = PROJECT_ROOT / "RULE_LIMINAL_THRESHOLD_MODEL_v4.md"
+METHOD = PROJECT_ROOT / "_rebuild_outputs" / "reports" / "RULE_LIMINAL_THRESHOLD_MODEL_v4.md"
 
 TITLE = "Pet-Service Ecologies Outpace Urban Readiness in Shenzhen: Rule-Liminal Venues and the Uneven Emergence of Companion-Animal Urban Capability"
 CHINESE_TITLE = "宠物城市生态已到，城市尚未准备好：深圳伴侣动物空间生态的规则临界与共处能力涌现机制"

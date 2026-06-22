@@ -25,6 +25,14 @@ python code/verify_package_inputs.py
 
 The input checker reports which analysis scripts run directly from the supplied derived data and which upstream scripts require restricted raw-derived intermediates. In the validated package, nine analysis scripts run from the supplied derived data: scripts 34, 38, 40, 43, 46, 47, 48, 66 and 67. Three upstream scripts document restricted steps requiring licensed raw-derived intermediates: scripts 24, 33 and 37.
 
+To rerun the full shareable derived-layer analysis, use:
+
+```bash
+python code/run_reproducible_analysis.py
+```
+
+This command reruns the nine scripts supported by the supplied data and writes a run summary to `_rebuild_outputs/reports/`.
+
 ## Figure and table support
 
 Use `DATA_CODE_FIGURE_TABLE_CROSSWALK.md` or `data_code_figure_table_crosswalk.csv` to identify which files support each figure, table and analytical step.

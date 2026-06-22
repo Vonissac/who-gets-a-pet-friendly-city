@@ -16,7 +16,10 @@ separately so the reproduction boundary is explicit rather than hidden.
 """
 
 import re
+import sys
 from pathlib import Path
+
+sys.dont_write_bytecode = True
 
 try:
     from config import PACKAGE_ROOT

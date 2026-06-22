@@ -34,7 +34,7 @@ OUT_GRID = PROJECT_ROOT / "data" / "derived_data" / "model" / "grid_emergence_su
 OUT_GRID_GEO = PROJECT_ROOT / "data" / "derived_data" / "model" / "grid_emergence_suppression_indices_500m_2025_v5.geojson"
 OUT_DISTRICT = PROJECT_ROOT / "data" / "derived_data" / "model" / "district_emergence_suppression_indices_2025_v5.csv"
 REPORT = PROJECT_ROOT / "_rebuild_outputs" / "reports" / "56_regional_emergence_suppression_indices_v5_report.md"
-METHOD = PROJECT_ROOT / "REGIONAL_EMERGENCE_SUPPRESSION_INDICES_v5.md"
+METHOD = PROJECT_ROOT / "_rebuild_outputs" / "reports" / "REGIONAL_EMERGENCE_SUPPRESSION_INDICES_v5.md"
 
 TITLE = "Pet-Service Ecologies Outpace Urban Readiness in Shenzhen: Rule-Liminal Venues and the Uneven Emergence of Companion-Animal Urban Capability"
 CHINESE_TITLE = "宠物城市生态已到，城市尚未准备好：深圳伴侣动物空间生态的规则临界与共处能力涌现机制"

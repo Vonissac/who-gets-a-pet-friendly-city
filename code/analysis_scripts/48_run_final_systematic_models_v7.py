@@ -42,7 +42,7 @@ OUT_EVENT_PANEL = PROJECT_ROOT / "data" / "derived_data" / "model" / "final_even
 OUT_EVENT_RESULTS = PROJECT_ROOT / "data" / "derived_data" / "model" / "final_event_study_results_v7.csv"
 OUT_MATCH = PROJECT_ROOT / "data" / "derived_data" / "model" / "final_matched_frontier_comparison_v7.csv"
 OUT_MODELS = PROJECT_ROOT / "data" / "derived_data" / "model" / "final_model_summary_v7.csv"
-OUT_CONCLUSIONS = PROJECT_ROOT / "SUPPORTED_FINDINGS_REGISTER_v7.csv"
+OUT_CONCLUSIONS = PROJECT_ROOT / "_rebuild_outputs" / "reports" / "SUPPORTED_FINDINGS_REGISTER_v7.csv"
 REPORT = PROJECT_ROOT / "_rebuild_outputs" / "reports" / "64_final_systematic_models_and_results_v7.md"
 
 TITLE = "Who Gets a Pet-Friendly City? Rule-Liminal Venues, Pet-Service Ecologies and Companion-Animal Urban Capability in Shenzhen"
